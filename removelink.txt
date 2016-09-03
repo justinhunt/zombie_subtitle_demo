@@ -1,0 +1,1 @@
+{"name":"removelink","key":"removelink","instructions":"","showatto":"0","showplayers":"1","requirecss":"","requirejs":"","shim":"","defaults":"","amd":"1","body":"<!-- we removed the link @@VIDEOURL@@ -->","bodyend":"","script":"","style":"","dataset":"","datasetvars":""}
